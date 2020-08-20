@@ -3,10 +3,11 @@
 Link: https://react-6aabc.web.app/
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/payafterwork/ecom-frontend/master/ecomhome.PNG)
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/payafterwork/ecom-frontend/master/ecomsignin.PNG)
 
+![alt text](https://raw.githubusercontent.com/payafterwork/ecom-frontend/master/ecomcheckout.PNG)
 
 
 ## Used:
